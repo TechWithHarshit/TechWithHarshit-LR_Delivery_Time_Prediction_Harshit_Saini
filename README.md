@@ -1,2 +1,2 @@
-# TechWithHarshit-LR_Delivery_Time_Prediction_Harshit_Saini.zip
+# TechWithHarshit-LR_Delivery_Time_Prediction_Harshit_Saini
 Assignment_TechWithHarshit/LR_Delivery_Time_Prediction
